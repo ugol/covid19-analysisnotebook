@@ -4,7 +4,7 @@ This is a simple Python notebook to analize data about italian Covid-19 plague. 
 
 ## How it works?
 
-Just launch Jupyter:  
+Clone the repository and launch Jupyter:  
 `jupyter notebook`  
-
+Then choose the notebook and play!  
 You might need some dependancies, you have them in the `environment.yml` file.
